@@ -1,9 +1,6 @@
 // DSA INNOVATIVE ASSIGNMENT 
 // TOPIC : CONNECT 4 Game Using Minimax Tree Algorithm.
-// By:-
-// 20BCE189 
-// 20BCE195
-// 20BCE211 
+// By:- PARTH PATEL @ https://github.com/parth-kp
 //-------------------------------------------------------------------------------//
 #include <stdio.h>
 #include <iostream>
@@ -418,9 +415,7 @@ int main()
     system("clear");
     int ch=1;
 	cout << "___________________ "<<red<<"Connect "<<yellow<<"4 "<<red<<"Game"<<reset<< " ___________________"<< endl;
-    cout << "_______________________20BCE189_______________________" << endl;
-    cout << "_______________________20BCE195_______________________" << endl;
-    cout << "_______________________20BCE211_______________________" << endl << endl << endl;
+    cout << "BY:- PARTH PATEL @ https://github.com/parth-kp" << endl << endl << endl;
     while(ch != 0)
     {
         cout <<"---------------------------"<<endl;
